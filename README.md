@@ -61,5 +61,22 @@ Si este método no funciona, puedes:
 2. Montarla como unidad virtual.
 3. Ejecutar el siguiente comando como Administrador:
 
-```bash
 DISM /Online /Enable-Feature /FeatureName:NetFx3 /All /Source:X:\sources\sxs /LimitAccess
+
+<img src="1caso.png">
+
+<img src="2-caso-error.png">
+
+<img src="caso7.png">
+
+<img src="caso7.png">
+
+<img src="5caso.png">
+
+<img src="caso5.png">
+
+<img src="8caso.png">
+
+<img src="resultado-final.png">
+
+<img src="9caso.png">
