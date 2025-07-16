@@ -63,8 +63,6 @@ Si este método no funciona, puedes:
 
 DISM /Online /Enable-Feature /FeatureName:NetFx3 /All /Source:X:\sources\sxs /LimitAccess
 
-<img src="1caso.png">
-
 <img src="2-caso-error.png">
 
 <img src="caso7.png">
