@@ -69,14 +69,14 @@ DISM /Online /Enable-Feature /FeatureName:NetFx3 /All /Source:X:\sources\sxs /Li
 
 <img src="caso7.png">
 
-<img src="caso7.png">
-
 <img src="5caso.png">
 
 <img src="caso5.png">
 
 <img src="8caso.png">
 
+<img src="9caso.png">
+
 <img src="resultado-final.png">
 
-<img src="9caso.png">
+
